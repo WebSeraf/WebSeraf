@@ -2,7 +2,6 @@
 </div>
 <div id="counter" align="center">
   <img src="<div id="header" align="center">
-  <img 
 </div>
 
 <div id="counter" align="center">
