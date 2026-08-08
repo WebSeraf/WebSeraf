@@ -31,13 +31,7 @@ const webSeraf = {
 
 ## 統計 // STATS
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebSeraf&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0d0d&title_color=c9a227&text_color=a8a8a8&icon_color=8b0000&card_width=400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WebSeraf&layout=compact&theme=dracula&hide_border=true&bg_color=0d0d0d&title_color=c9a227&text_color=a8a8a8&card_width=400)
-
-</div>
 
 ---
 
@@ -58,9 +52,5 @@ const webSeraf = {
 <div align="center">
 
 **⛩️ 刀魂 武士道**
-
-*Coded with precision by WebSeraf*
-
-**Build Status:** 開発中 | **Spirit:** 刀魂
 
 </div>
