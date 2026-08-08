@@ -4,10 +4,10 @@
 
 **刀魂 • Cypherpunk • 東京**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=18&pause=2000&color=c9a227&center=true&vCenter=true&width=600&lines=Cypherpunk;Building+with+precision;Japanese+aesthetic;Code+with+spirit)](https://git.io/typing-svg)
 
+<img src="<img srk="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhobnZ2ZW9kY3FyZDdjb3ZzYm95bHphcWh2ZHl1cjhoeGxyNGdxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif"
+"
 </div>
-
 ---
 
 ##  关于我
