@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!-- 🔹 Главная GIF-avicon -->
-  <img src="ВАША_GIF_ССЫЛКА_АВАТАРКА" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhobnZ2ZW9kY3FyZDdjb3ZzYm95bHphcWh2ZHl1cjhoeGxyNGdxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
