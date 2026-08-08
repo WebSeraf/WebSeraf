@@ -1,7 +1,7 @@
 <div id="header" align="center">
 </div>
 <div id="counter" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhobnZ2ZW9kY3FyZDdjb3ZzYm95bHphcWh2ZHl1cjhoeGxyNGdxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif" alt=""/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGkyYXB6bHR3OGNiMnJzN3UybXRvbDdod2hsbXR6Njc4bXdqZnEwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hWh8fislMRtp0bFUuE/giphy.gif" alt=""/>
 </div>
 
 
