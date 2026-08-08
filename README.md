@@ -17,20 +17,9 @@
 
 ## ⚔️ 技術 // SKILLS
 
-```javascript
-const webSeraf = {
-  spirit: "刀魂",
-  languages: ["JavaScript", "TypeScript", "Python"],
-  frameworks: ["React", "Node.js", "Express"],
-  tools: ["Git", "Docker", "VS Code"],
-  philosophy: "Simple & Precise"
-};
-```
-
 ---
 
 ## 統計 // STATS
-
 
 
 ---
